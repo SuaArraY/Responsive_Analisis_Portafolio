@@ -14,3 +14,6 @@ https://github.com/bedimcode/responsive-portfolio-website-Alexa.git
     <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
   </div>
 </div>
+
+
+https://getbootstrap.com/docs/5.0/components/card/#images
